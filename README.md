@@ -3,8 +3,8 @@
 CSS文件夹：项目的CSS文件
 图像文件夹：项目图片
 JS文件夹：项目JS问价
-footer.jsp中：尾部代码文件
-的index.jsp：主页
+footer.jsp中中：尾部代码文件
+的的index.jsp：主页
 的List.jsp：列表模块
 lunbo.jsp：轮播图模块
 navbar.jsp：导航栏模块
