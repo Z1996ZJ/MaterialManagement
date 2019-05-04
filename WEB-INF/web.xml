@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+    <servlet>
+      <servlet-name>insertServlet</servlet-name>
+      <servlet-class>myservlet.control.InsertServlet</servlet-class>
+     </servlet>
+     <servlet-mapping>
+      <servlet-name>insertServlet</servlet-name>
+      <url-pattern>/insertServlet</url-pattern>
+     </servlet-mapping>
+   <servlet>
+      <servlet-name>QueryServlet</servlet-name>
+      <servlet-class>myservlet.control.QueryServlet</servlet-class>
+   </servlet>
+   <servlet-mapping>
+      <servlet-name>QueryServlet</servlet-name>
+      <url-pattern>/QueryServlet</url-pattern>
+   </servlet-mapping>
+</web-app>
