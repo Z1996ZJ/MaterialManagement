@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+*{
+	color:#333333;
+}
+.table{
+	
+	align:center;
+	border:1px solid #666666;
+	font-size:1.5vw;
+	margin: auto;
+}
+.td{
+	width:10vw;
+	height:3vw;
+	text-align:center;
+	border:1px solid #666666;
+}
+.td1{
+	width:60vw;
+	height:3vw;
+	text-align:center;
+	border:1px solid #666666;
+}
+a:link {
+	font-family: "ËÎÌו";
+	color: #FFFFFF;
+}
